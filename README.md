@@ -67,7 +67,7 @@ A role-based coffee ordering system with a Java/Spring backend, relational MySQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsmorgan-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gsmorgan.dev@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=flat&logo=readme&logoColor=white)](https://your-resume-link-here)
+[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=flat&logo=readme&logoColor=white)](https://github.com/gsmorgan-dev/gsmorgan-dev/blob/main/resume_gabriel_morgan.pdf)
 
 ---
 
