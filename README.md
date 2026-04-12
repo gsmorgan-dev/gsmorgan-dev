@@ -1,8 +1,9 @@
 # Hey, I'm Gabriel 👋
 
-I'm a backend engineer based in Apex, NC who loves designing and building the architecture behind systems that solve real problems. There's something satisfying about taking a blank slate and turning it into something that actually works — whether that's a clean REST API, a well-structured database, or a containerized service running reliably in production.
+I'm a backend engineer based in Apex, NC who loves designing and building the architecture behind systems that solve real problems. Most of my time is spent working across the stack, from designing REST APIs and database schemas to shipping React interfaces that real people use every day.
 
-I enjoy working on all kinds of products — developer tools, consumer apps, data platforms, you name it. If it's useful and well-built, I'm interested.
+
+I care about writing software that is clean, maintainable, and actually solves the problem it was built for. Whether that is a well-structured database, a secure authentication system, or a containerized service running reliably in production.
 
 ---
 
@@ -49,6 +50,17 @@ A full-stack PWA for tracking workouts, competing on leaderboards, and browsing 
 
 ---
 
+### 📊 [NYC Airbnb Market Analysis](https://github.com/gsmorgan-dev/nyc-airbnb-eda) — Exploratory Data Analysis
+> Python · Pandas · NumPy · Matplotlib · Seaborn · Folium
+
+An exploratory data analysis of 40,000+ NYC Airbnb listings sourced 
+via the KaggleHub API. Performed systematic data cleaning, 
+statistical analysis of pricing behavior across all five boroughs, 
+and built interactive geospatial visualizations to surface market 
+patterns and pricing drivers.
+
+---
+
 ### ☕ [WolfCafe](https://github.com/gsmorgan-dev/wolfcafe) — Coffee Ordering Web App
 > Java · Spring · MySQL · React · Tomcat
 
@@ -60,7 +72,8 @@ A role-based coffee ordering system with a Java/Spring backend, relational MySQL
 
 - 🏗️ **System Design** — studying distributed systems, scalability patterns, and architecture trade-offs
 - 🤖 **AI / ML Applications** — exploring how to integrate intelligent features into real backend systems
-
+- 📊 **Data Analysis** — building on Python-based EDA experience 
+  with real-world datasets
 ---
 
 ## 📫 Let's Connect
@@ -71,4 +84,6 @@ A role-based coffee ordering system with a Java/Spring backend, relational MySQL
 
 ---
 
-*Currently open to backend engineering roles at companies building things worth using.*
+*Currently open to new opportunities. Whether you have 
+a role in mind or just want to connect, feel free to 
+get in touch.*
