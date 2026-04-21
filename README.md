@@ -61,13 +61,6 @@ patterns and pricing drivers.
 
 ---
 
-### ☕ [WolfCafe](https://github.com/gsmorgan-dev/wolfcafe) — Coffee Ordering Web App
-> Java · Spring · MySQL · React · Tomcat
-
-A role-based coffee ordering system with a Java/Spring backend, relational MySQL schema, and a React frontend. Built authentication, order workflows, and REST APIs end-to-end. Includes unit and system testing across all user roles.
-
----
-
 ## 📚 Currently Exploring
 
 - 🏗️ **System Design** — studying distributed systems, scalability patterns, and architecture trade-offs
